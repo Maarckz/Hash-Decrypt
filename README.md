@@ -1,5 +1,6 @@
 # Hash-Decrypt
 <h2 class="sectionedit2" id="generic_hash_types">Generic hash types</h2>
+<h10>
 <table class="inline">
 	<thead>
 	<tr class="row0">
@@ -1716,3 +1717,4 @@ These hash types used to be in some version of hashcat, but were removed or repl
 	<tr class="row1">
 		<td class="col0"> 5000 </td><td class="col1"> SHA-3 (Keccak) </td><td class="col2"> 203f88777f18bb4ee1226627b547808f38d90d3e106262b5de9ca943b57137b6 </td><td class="col3"> replaced by specific Keccak types in hashcat 5.0.0</td>
 	</tr>
+	</h10>
